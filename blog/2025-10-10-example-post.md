@@ -2,7 +2,7 @@
 slug: example-post
 title: Example Post
 authors: [alfonso]
-tags: [Tutorial, docusaurus]
+tags: [docusaurus]
 ---
 
 Lorem ipsum dolor sit amet...
