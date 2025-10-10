@@ -1,0 +1,9 @@
+{
+  "label": "Tutorial - Extras + Example",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "This is a description on the _category_.json file in tutorial-extras folder. Below is a list of the Markdown docs in the folder."
+  },
+  "collapsed": true
+}
