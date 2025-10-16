@@ -1,0 +1,9 @@
+{
+  "label": "Definition of Game Metrics, Events, and Observations",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Automated playtesting models use two main data types—gameplay metrics and real-time observations—to simulate player behavior and predict experiences like difficulty or engagement. These inputs help designers evaluate how players might interact with the game."
+  },
+  "collapsed": false
+}

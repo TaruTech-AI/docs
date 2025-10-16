@@ -1,0 +1,9 @@
+{
+  "label": "Unity Plug-in Integration Guide",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "In this guide, we'll walk you through the entire process: setting up your project, turning a regular GameObject into a thinking AI (AI Agent), and connecting it to our cloud platform for training and playtesting. Let's get started."
+  },
+  "collapsed": false
+}

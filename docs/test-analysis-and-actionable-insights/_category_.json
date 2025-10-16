@@ -1,0 +1,9 @@
+{
+  "label": "Test Analysis and Actionable Insights",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Guidance on analyzing test results and deriving actionable insights to improve game design and player experience."
+  },
+  "collapsed": true
+}

@@ -1,0 +1,9 @@
+{
+  "label": "Running Tests",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Instructions for running tests."
+  },
+  "collapsed": true
+}

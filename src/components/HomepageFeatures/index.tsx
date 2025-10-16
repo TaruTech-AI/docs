@@ -11,42 +11,65 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Science-Based',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Human-like Playtesting, Powered by AI.
+        <p>Gather player insights from a wide spectrum of player behaviors, at scale, in minutes, and at a fraction of the cost.</p>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Advanced Custom AI Models',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our highly efficient models are designed and trained specifically for each game, learning to replicate a full range of human playstyles, ensuring simulations that reflect real-world behavior with accuracy and depth.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Simulated Player Populations',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our system simulates player populations with varied skill, persistence and boredom tolerance. Understand how different types of players will progress, churn, or thrive across your levels.
       </>
     ),
   },
   {
-    title: 'A new feature',
+    title: 'Predict KPIs Before Launch',
     Svg: require('@site/static/img/undraw_time-management_4ss6.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          <p>Pass Rate (difficulty)</p>
+          <p>Churn Rate (retention)</p>
+          <p>Action Completion (abipty usage, strategy)</p>
+          <p>Engagement (frustration vs fun balance)</p>
+      </>
+    ),
+  },
+    {
+    title: 'Built for Developers',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        <p>Integrate easily with your existing workflows and tools.</p>
+        <p>Seamless Integration</p>
+      </>
+    ),
+  },
+    {
+    title: 'Minimal Setup. Maximum Insight.',
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    description: (
+      <>
+        <p>Streamline game design and balancing.</p>
+        <p>Simulate diverse playstyles.</p>
+        <p>Deliver higher-quality games faster.</p>
+        <p>Identify frustration points before launch.</p>
+        <p>Improve retention, engagement and monetization.</p>
       </>
     ),
   },

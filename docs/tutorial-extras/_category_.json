@@ -1,9 +1,0 @@
-{
-  "label": "Definition of Game Metrics, Events, and Observations",
-  "position": 2,
-  "link": {
-    "type": "generated-index",
-    "description": "Definition of required game metrics, events, and observations to train the model and run inferences."
-  },
-  "collapsed": true
-}
