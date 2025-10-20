@@ -22,3 +22,18 @@ tutorial:
   label: Tutorial
   permalink: /tutorial
   description: Tutorial content
+
+events:
+  label: Tutorial
+  permalink: /events
+  description: Events where Taru Tech has participated
+
+conferences:
+  label: Conferences
+  permalink: /conferences
+  description: Conferences where Taru Tech has participated
+
+media:
+  label: Media
+  permalink: /media
+  description: Media coverage of Taru Tech

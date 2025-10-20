@@ -1,14 +1,14 @@
 ---
-slug: pg-connects-helsinki-2025
-title: PG Connects Helsinki 2025
+slug: nordeep-2025
+title: Nordeep 2025
 authors: [alfonso]
 tags: [Events, Conferences, Media]
 keywords:
     - Events
     - Conferences
     - Gaming
-image: ./TaruTech_slogan_square.png
-description: Review of PocketGamer Connects Helsinki, 2025.
+image: https://startupcenter.aalto.fi/sites/default/files/styles/o_914w_ah_n_nu/public/2025-10/Nordeep_2025_photo_Kalle_Kataila-7868.jpg?itok=BVudkw40
+description: Sample blogpost with image, keywords, tags and more.
 ---
 
 At the beginning of October, Taru Tech was able to attend [Nordeep 2025](https://nordeep.com/), the Nordic’s largest deep tech business summit.
@@ -26,6 +26,3 @@ We also had the great priviledge meeting and chatting with some veteran gaming a
 Other meaningful chats and connections were [Jarmo Ruohonen](https://www.linkedin.com/in/jarmo-ruohonen-2748917/), Head of Innovation Services @ Aalto University, [Sébastien Gianelli](https://www.linkedin.com/in/sebastien-gianelli) from [SANDS.vc](https://sands.vc), and [Giovanni Burresi](https://www.linkedin.com/in/giovanniburresi/) and [Lukas Dustand](https://www.linkedin.com/in/lukas-dust-807639161/) from the Swedish startup [Scailab](https://www.scailab.se).
 
 All in all, despite not being a gaming industry specific event, Nordeep was a valuable space to meet with like-minded people and companies, as well as to meet investors and relevant connections.
-
-![Taru Tech square logo](./TaruTech_slogan_square.png)
-

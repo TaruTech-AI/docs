@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Science-Based',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_science_kut5.svg').default,
     description: (
       <>
         Human-like Playtesting, Powered by AI.
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Advanced Custom AI Models',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_artificial-intelligence_43qa.svg').default,
     description: (
       <>
         Our highly efficient models are designed and trained specifically for each game, learning to replicate a full range of human playstyles, ensuring simulations that reflect real-world behavior with accuracy and depth.
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Simulated Player Populations',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_cohort-analysis_nqxy.svg').default,
     description: (
       <>
         Our system simulates player populations with varied skill, persistence and boredom tolerance. Understand how different types of players will progress, churn, or thrive across your levels.
@@ -40,36 +40,36 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Predict KPIs Before Launch',
-    Svg: require('@site/static/img/undraw_time-management_4ss6.svg').default,
+    Svg: require('@site/static/img/undraw_app-benchmarks_ls0m.svg').default,
     description: (
       <>
-          <p>Pass Rate (difficulty)</p>
-          <p>Churn Rate (retention)</p>
-          <p>Action Completion (abipty usage, strategy)</p>
-          <p>Engagement (frustration vs fun balance)</p>
+          Pass Rate (difficulty)<br/>
+          Churn Rate (retention)<br/>
+          Action Completion (abipty usage, strategy)<br/>
+          Engagement (frustration vs fun balance)<br/>
       </>
     ),
   },
     {
     title: 'Built for Developers',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_developer-avatar_f6ac.svg').default,
     description: (
       <>
-        <p>Integrate easily with your existing workflows and tools.</p>
-        <p>Seamless Integration</p>
+        Integrate easily with your existing workflows and tools<br/>
+        Seamless Integration<br/>
       </>
     ),
   },
     {
     title: 'Minimal Setup. Maximum Insight.',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_ideas_vn7a.svg').default,
     description: (
       <>
-        <p>Streamline game design and balancing.</p>
-        <p>Simulate diverse playstyles.</p>
-        <p>Deliver higher-quality games faster.</p>
-        <p>Identify frustration points before launch.</p>
-        <p>Improve retention, engagement and monetization.</p>
+        Streamline game design and balancing.<br/>
+        Simulate diverse playstyles.<br/>
+        Deliver higher-quality games faster.<br/>
+        Identify frustration points before launch.<br/>
+        Improve retention, engagement and monetization.<br/>
       </>
     ),
   },

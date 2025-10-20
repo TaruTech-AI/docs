@@ -44,7 +44,7 @@ The following steps need to be applied to each relevant vector observation. As a
 2.  On the `playtestObserver` component, click on the "Add component to Observe” Button.
 3.  Drag the GameObject that your script is attached to into the game object field (`playerController.cs` in this example).
 4.  Choose the script from the “Script to Observer" drop down.
-
+![Playtest Observer (Script)](docs_part2_step2_4.png)
 
 
 Now the playtest agent is aware of the player position.
@@ -72,11 +72,11 @@ The Player Input component turns agent decisions into actions in your game using
   		    *      For more detail please check Unity's documentation on [Configuring Input with the Actions Editor](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.14/manual/ActionsEditor.html).
       3.  Connecting actions to methods or callbacks:
           You can use the Behavior property in the Player Input component to notify game code when something related to the player has occurred. By selecting `Invoke Unity Events` as Behavior, the events from the PlayerInput are accessible in the Events foldout. You can assign the respective script and a separate `UnityEvent` for each action.
-    
+        ![Events](docs_part2_step4_1_3.png)
           For more details or other types of Behavior (i.e. Invoke C# Events), please check Unity's documentation on [notification behaviors](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.14/manual/PlayerInput.html#notification-behaviors).
 
 2.  In the Inspector of the `.inputactions` Asset, tick the Generate C# Class checkbox in the importer properties, then select Apply.
-
+![Events](docs_part2_step4_2.png)
     
 3.  Modify your player script to use `IInputActionAssetProvider`
     1. At the very top of the script, add:
