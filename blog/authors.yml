@@ -1,29 +1,3 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
-
 alfonso:
   name: Alfonso Ortiz Palma
   title: CCO & Co-founder @ Taru Tech
@@ -35,3 +9,25 @@ alfonso:
     linkedin: ortizpalma
     github: aortizpalma
     # newsletter: https://www.greatfrontend.com
+
+arsham:
+  name: Arsham Soltani
+  title: CTO & Co-founder @ Taru Tech
+  url: https://www.linkedin.com/in/arshamsoltanihcid/
+  image_url: https://media.licdn.com/dms/image/v2/D4E03AQFo-bcqBl4DOQ/profile-displayphoto-scale_200_200/B4EZfpK35jHcAc-/0/1751963632910?e=1762387200&v=beta&t=uzOicybZDxiCLTFPDwSUMF_GB2SK08YZVVvL6V0B-MM
+  page: true
+  socials:
+    linkedin: arshamsoltanihcid
+    # newsletter: https://www.greatfrontend.com
+
+emil:
+  name: Emil Bulut
+  title: CEO & Co-founder @ Taru Tech
+  url: https://www.linkedin.com/in/emil-bulut/
+  image_url: https://media.licdn.com/dms/image/v2/D4D03AQG5ZYnX05EK-w/profile-displayphoto-scale_200_200/B4DZhAzTOoHYAY-/0/1753433847408?e=1762387200&v=beta&t=k-rgBaaVdyiZc_FI6DfQbv7d4SxH8M6K9fmKJKjz7ec
+  page: true
+  socials:
+    linkedin: emil-bulut
+    # newsletter: https://www.greatfrontend.com
+
+
